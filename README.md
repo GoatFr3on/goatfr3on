@@ -112,7 +112,7 @@ A Discord application built to help football communities manage leagues, tournam
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS (FIXED LINKS) -->
+<!-- GITHUB ANALYTICS (FIXED & RELIABLE) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -155,7 +155,7 @@ A Discord application built to help football communities manage leagues, tournam
 
 <br/>
 
-<!-- تم إضافة مسار بديل للسناك في حالة عدم تفعيله، بس ده المسار الأساسي -->
+<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/goatfr3on/goatfr3on/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
