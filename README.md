@@ -1,15 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO HEADER -->
+<!-- HERO HEADER (تأثير الموجة والنص المتحرك) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
+  <!-- Wave Header with Animation -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a1a&height=280&section=header&text=FR3ON&fontSize=110&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descAlignY=62&descSize=18&descColor=aaaaaa"/>
   
   <br/>
 
+  <!-- Typing SVG Effect -->
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=TURNING+IDEAS+INTO+REAL+PROJECTS;BUILDING+WEB+%26+DISCORD+APPLICATIONS;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Typing SVG"/>
 
   <br/><br/>
 
+  <!-- Social Links with Hover Effect -->
   <a href="https://github.com/goatfr3on"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/899513733599096843"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord"/></a>
@@ -18,7 +21,7 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
+<!-- ABOUT ME (مع تأثير المربع) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=50&section=header&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
@@ -39,13 +42,14 @@
 
   <br/><br/>
 
+  <!-- Motto with Animated Glow -->
   <img src="https://img.shields.io/badge/-I%20BUILD%20THINGS%20THAT%20I%20WANT%20TO%20SEE%20EXIST.-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a" alt="Motto"/>
 </div>
 
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECHNOLOGIES -->
+<!-- TECHNOLOGIES (مع تأثير التصنيف) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=50&section=header&text=TECHNOLOGIES&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
@@ -70,7 +74,7 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECT -->
+<!-- FEATURED PROJECT (مع تأثير التوهج) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=50&section=header&text=FEATURED%20PROJECT&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
@@ -133,27 +137,7 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- SNAKE GAME (بدون أي إعدادات) -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=50&section=header&text=SNAKE%20GAME&fontSize=24&fontColor=ffffff&fontAlignY=55" width="100%"/>
-  
-  <br/><br/>
-
-  <!-- الرابط ده شغال على طول بمجرد ما تحطه -->
-  <a href="https://github.com/abozanona/github-snake">
-    <img src="https://raw.githubusercontent.com/abozanona/github-snake/main/play.svg" width="100%" alt="Snake Game"/>
-  </a>
-
-  <br/><br/>
-
-  <p><b>Click the image to play!</b></p>
-</div>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
+<!-- FOOTER (موجة متحركة) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
