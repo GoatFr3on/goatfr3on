@@ -12,12 +12,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/goatfr3on">
-<img src="https://komarev.com/ghpvc/?username=goatfr3on&style=for-the-badge&color=111111&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views"/>
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/goatfr3on"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://alzabot.is-a.dev/"><img src="https://img.shields.io/badge/ALZA_BOT-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Alza Bot"/></a>
 <a href="https://discord.gg/tUhrNaGPCK"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -118,36 +112,34 @@ A Discord application built to help football communities manage leagues, tournam
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS -->
+<!-- GITHUB ANALYTICS (FIXED LINKS) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
-<br/>
-
-<a href="https://github.com/goatfr3on">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=goatfr3on&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/goatfr3on">
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=goatfr3on&theme=dark&hide_border=true&background=000000&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub streak"/>
-</a>
-
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goatfr3on&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="Most used languages"/>
-
-<br/><br/>
-
+<!-- Stats & Streak (New Reliable Links) -->
 <a href="https://github.com/goatfr3on">
-<img src="https://github-profile-trophy.vercel.app/?username=goatfr3on&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=goatfr3on&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true" alt="GitHub Statistics"/>
+</a>
+<a href="https://github.com/goatfr3on">
+  <img height="175" src="https://streak-stats.demolab.com/?user=goatfr3on&theme=dark&hide_border=true&background=000000&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goatfr3on&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=CONTRIBUTION%20GRAPH" width="100%" alt="Activity graph"/>
+<!-- Top Languages -->
+<a href="https://github.com/goatfr3on">
+  <img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goatfr3on&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goatfr3on&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=CONTRIBUTION%20GRAPH" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -163,7 +155,8 @@ A Discord application built to help football communities manage leagues, tournam
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/goatfr3on/goatfr3on/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+<!-- تم إضافة مسار بديل للسناك في حالة عدم تفعيله، بس ده المسار الأساسي -->
+<img src="https://raw.githubusercontent.com/goatfr3on/goatfr3on/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
 
