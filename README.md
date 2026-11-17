@@ -1,138 +1,103 @@
  <div align="center">
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:242424&height=220&section=header&text=FR3ON&fontSize=85&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20DIGITAL%20BUILDER&descAlignY=58&descSize=16"/>
 
-# F R 3 O N
-
-### SOFTWARE DEVELOPER & DIGITAL BUILDER
-
-<br/>
-
-**I BUILD. I CREATE. I TURN IDEAS INTO REALITY.**
+<a href="https://github.com/goatfr3on">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&lines=BUILDING+DIGITAL+EXPERIENCES;DEVELOPING+IDEAS+INTO+REALITY;ALWAYS+LEARNING.+ALWAYS+BUILDING."/>
+</a>
 
 <br/>
 
-[ GITHUB ](https://github.com/goatfr3on) &nbsp;&nbsp; / &nbsp;&nbsp; [ ALZA BOT ](https://alzabot.is-a.dev/) &nbsp;&nbsp; / &nbsp;&nbsp; [ CONTACT ](https://discord.gg/tUhrNaGPCK)
+<img src="https://komarev.com/ghpvc/?username=goatfr3on&style=for-the-badge&color=000000&label=PROFILE+VIEWS"/>
 
-<br/>
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goatfr3on)
+[![Alza](https://img.shields.io/badge/ALZA_BOT-000000?style=for-the-badge&logo=discord&logoColor=white)](https://alzabot.is-a.dev/)
+[![Discord](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tUhrNaGPCK)
 
 </div>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=333333&height=2&section=header"/>
 
-### THE DEVELOPER
+## ABOUT ME
 
-I'm **Fr3on** — a software developer focused on building digital products, Discord applications, and modern web experiences.
+```text
+NAME       → FR3ON
+ROLE       → SOFTWARE DEVELOPER
+FOCUS      → WEB DEVELOPMENT & DISCORD APPLICATIONS
+PROJECT    → ALZA BOT
+MINDSET    → BUILD • LEARN • IMPROVE
+```
 
-I believe great software comes from understanding problems, paying attention to details, and continuously improving.
+I build software, explore new technologies, and turn ideas into working products.
 
-My approach is simple: build meaningful things, make them better, and never stop learning.
-
-</td>
-<td width="40%" valign="top">
-
-### CURRENT FOCUS
-
-**Web Development**
-
-Modern websites and applications.
-
-**Discord Development**
-
-Bots, automation, and integrations.
-
-**Product Building**
-
-Turning ideas into functional products.
-
-</td>
-</tr>
-</table>
+My focus is on creating useful applications with attention to functionality, design, and user experience.
 
 ---
 
+## TECH STACK
+
 <div align="center">
 
-### TECHNOLOGIES & TOOLS
-
-**LANGUAGES**
-
-JavaScript &nbsp; / &nbsp; TypeScript
-
-**FRAMEWORKS & RUNTIME**
-
-Node.js &nbsp; / &nbsp; Discord.js &nbsp; / &nbsp; React &nbsp; / &nbsp; Next.js &nbsp; / &nbsp; Tailwind CSS
-
-**DATABASE & VERSION CONTROL**
-
-MongoDB &nbsp; / &nbsp; Git &nbsp; / &nbsp; GitHub
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,react,nextjs,tailwind,mongodb,git,github,vscode&theme=dark"/>
 
 </div>
 
 ---
 
-## SELECTED PROJECT
-
-<table width="100%">
-<tr>
-<td width="100%">
+## FEATURED PROJECT
 
 <div align="center">
 
-# ALZA BOT
+### ALZA BOT
 
-### FOOTBALL LEAGUE MANAGER FOR DISCORD
+**A FOOTBALL LEAGUE MANAGER BUILT FOR DISCORD**
 
-A complete football league and tournament management experience built directly into Discord.
+A complete football league and tournament management platform designed to bring football communities together.
+
+[![Website](https://img.shields.io/badge/EXPLORE_WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://alzabot.is-a.dev/)
 
 </div>
 
-**Core Experience**
+---
 
-- Football league and tournament management
-- Player cards and transfer systems
-- Match management and statistics
-- Discord automation and management tools
-- Web-based tournament dashboard
+## GITHUB STATISTICS
 
 <div align="center">
 
-[ **EXPLORE ALZA ↗** ](https://alzabot.is-a.dev/)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=goatfr3on&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&ring_color=FFFFFF"/>
 
-[Website](https://alzabot.is-a.dev/) &nbsp; / &nbsp; [Premium](https://alzabot.is-a.dev/premium) &nbsp; / &nbsp; [Support](https://discord.gg/tUhrNaGPCK)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=goatfr3on&theme=dark&hide_border=true&background=000000&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
+
+<br/>
+
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goatfr3on&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC"/>
 
 </div>
 
-</td>
-</tr>
-</table>
+---
+
+## CONTRIBUTION GRAPH
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/goatfr3on/goatfr3on/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### THE WAY I WORK
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,100:000000&height=120&section=footer"/>
 
-**CURIOSITY. PRECISION. CONSISTENCY.**
+### FR3ON
 
-I don't believe in knowing everything. I believe in learning, experimenting, and building things that matter.
+**LESS TALK. MORE BUILDING.**
 
-<br/>
-
-### FIND ME ONLINE
-
-[GitHub](https://github.com/goatfr3on) &nbsp; · &nbsp; [Alza Bot](https://alzabot.is-a.dev/) &nbsp; · &nbsp; [Discord](https://discord.gg/tUhrNaGPCK)
-
-<br/>
-
-**FR3ON**
-
-<sub>INDEPENDENT DEVELOPER · 2026</sub>
-
-<br/>
+<sub>© 2026 · BUILT WITH PRECISION.</sub>
 
 </div>
