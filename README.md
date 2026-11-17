@@ -1,171 +1,128 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO HEADER (صورة فقط - غير قابلة للضغط) -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a1a&height=280&section=header&text=FR3ON&fontSize=110&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descAlignY=62&descSize=18&descColor=aaaaaa"/>
+  
+  <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+  <!-- Typing SVG (غير قابل للضغط) -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=TURNING+IDEAS+INTO+REAL+PROJECTS;BUILDING+WEB+%26+DISCORD+APPLICATIONS;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Typing SVG"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a1a&height=280&section=header&text=FR3ON&fontSize=110&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descAlignY=62&descSize=20&descColor=bbbbbb"/>
+  <br/><br/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=TURNING+IDEAS+INTO+REAL+PROJECTS;BUILDING+WEB+%26+DISCORD+APPLICATIONS;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://github.com/goatfr3on"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://alzabot.is-a.dev/"><img src="https://img.shields.io/badge/ALZA_BOT-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Alza Bot"/></a>
-<a href="https://discord.gg/tUhrNaGPCK"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-
+  <!-- Social Links (دول بس اللي بيتضغطوا) -->
+  <a href="https://github.com/goatfr3on"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/></a>
+  <a href="https://alzabot.is-a.dev/"><img src="https://img.shields.io/badge/ALZA_BOT-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Alza Bot"/></a>
+  <a href="https://discord.gg/tUhrNaGPCK"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord"/></a>
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
+<!-- ABOUT ME (عنوان ونص فقط - غير قابل للضغط) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">◇ ABOUT ME ◇</h2>
 
 <div align="center">
+  <p><b>FR3ON</b> — Software Developer & Project Builder</p>
+  <p>I enjoy building software, developing practical solutions, and turning ideas into working products.</p>
+  <p>My work focuses on <b>web applications</b>, <b>Discord bots</b>, and creating experiences that are <b>useful, reliable, and easy to use</b>.</p>
+  
+  <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=ABOUT%20ME&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-<br/>
-
-**FR3ON** — Software Developer & Project Builder
-
-I enjoy building software, developing practical solutions, and turning ideas into working products.
-
-My work focuses on web applications, Discord bots, and creating experiences that are useful, reliable, and easy to use.
-
-<br/>
-
-<img src="https://img.shields.io/badge/-I%20BUILD%20THINGS%20THAT%20I%20WANT%20TO%20SEE%20EXIST.-000000?style=for-the-badge&labelColor=000000&color=1a1a1a" alt="Motto"/>
-
+  <!-- Motto Badge (غير قابل للضغط) -->
+  <img src="https://img.shields.io/badge/-I%20BUILD%20THINGS%20THAT%20I%20WANT%20TO%20SEE%20EXIST.-1a1a1a?style=for-the-badge&labelColor=000000&color=1a1a1a" alt="Motto"/>
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECHNOLOGIES -->
+<!-- TECHNOLOGIES (صور فقط - غير قابلة للضغط) -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">◇ TECHNOLOGIES ◇</h2>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,tailwind,mongodb,git,github&theme=dark" alt="Technologies"/>
+  
+  <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=TECHNOLOGIES&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,tailwind,mongodb,git,github&theme=dark" alt="Technologies"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-
+  <img src="https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 </div>
 
----
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FEATURED PROJECT -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<h2 align="center">◇ FEATURED PROJECT ◇</h2>
 
 <div align="center">
+  <img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=0:222222,100:222222&height=5" alt="divider"/>
+  
+  <br/><br/>
+  
+  <!-- Featured Project Badge (غير قابل للضغط) -->
+  <img src="https://img.shields.io/badge/FEATURED_PROJECT-222222?style=flat-square&labelColor=000000&logo=star&logoColor=white" alt="Featured"/>
+  
+  <h1>ALZA BOT</h1>
+  <h3>FOOTBALL LEAGUE MANAGER FOR DISCORD</h3>
+  
+  <p>A Discord application built to help football communities manage leagues, tournaments, and their activities in one place.</p>
+  
+  <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=FEATURED%20PROJECT&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
+  <!-- Project Tags (غير قابلة للضغط) -->
+  <img src="https://img.shields.io/badge/LEAGUES-000000?style=flat-square&labelColor=333333" alt="Leagues"/>
+  <img src="https://img.shields.io/badge/TOURNAMENTS-000000?style=flat-square&labelColor=333333" alt="Tournaments"/>
+  <img src="https://img.shields.io/badge/PLAYER_CARDS-000000?style=flat-square&labelColor=333333" alt="Player cards"/>
+  <img src="https://img.shields.io/badge/DISCORD_AUTOMATION-000000?style=flat-square&labelColor=333333" alt="Discord automation"/>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://img.shields.io/badge/FEATURED_PROJECT-FFFFFF?style=flat-square&labelColor=000000" alt="Featured project"/>
+  <!-- زر Explore (قابل للضغط - لينك حقيقي) -->
+  <a href="https://alzabot.is-a.dev/">
+    <img src="https://img.shields.io/badge/EXPLORE_ALZA-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Explore Alza"/>
+  </a>
 
-# ALZA BOT
+  <br/><br/>
 
-### FOOTBALL LEAGUE MANAGER FOR DISCORD
+  <!-- Sub Links (دول قابلين للضغط - لينكات حقيقية) -->
+  <a href="https://alzabot.is-a.dev/"><img src="https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://alzabot.is-a.dev/premium"><img src="https://img.shields.io/badge/PREMIUM-000000?style=flat-square&logo=starship&logoColor=white" alt="Premium"/></a>
+  <a href="https://discord.gg/tUhrNaGPCK"><img src="https://img.shields.io/badge/SUPPORT_SERVER-000000?style=flat-square&logo=discord&logoColor=white" alt="Support Server"/></a>
 
-A Discord application built to help football communities manage leagues, tournaments, and their activities in one place.
+  <br/><br/>
+
+  <img width="100%" height="5" src="https://capsule-render.vercel.app/api?type=rect&color=0:222222,100:222222&height=5" alt="divider"/>
+</div>
 
 <br/>
-
-<img src="https://img.shields.io/badge/LEAGUES-000000?style=flat-square&labelColor=222222" alt="Leagues"/>
-<img src="https://img.shields.io/badge/TOURNAMENTS-000000?style=flat-square&labelColor=222222" alt="Tournaments"/>
-<img src="https://img.shields.io/badge/PLAYER_CARDS-000000?style=flat-square&labelColor=222222" alt="Player cards"/>
-<img src="https://img.shields.io/badge/DISCORD_AUTOMATION-000000?style=flat-square&labelColor=222222" alt="Discord automation"/>
-
-<br/><br/>
-
-<a href="https://alzabot.is-a.dev/">
-<img src="https://img.shields.io/badge/EXPLORE_ALZA-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Explore Alza"/>
-</a>
-
-<br/><br/>
-
-<a href="https://alzabot.is-a.dev/"><img src="https://img.shields.io/badge/WEBSITE-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="https://alzabot.is-a.dev/premium"><img src="https://img.shields.io/badge/PREMIUM-000000?style=flat-square&logo=starship&logoColor=white" alt="Premium"/></a>
-<a href="https://discord.gg/tUhrNaGPCK"><img src="https://img.shields.io/badge/SUPPORT_SERVER-000000?style=flat-square&logo=discord&logoColor=white" alt="Support Server"/></a>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS (STATIC) -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=STATISTICS&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>TOTAL CONTRIBUTIONS</b><br>
-      <sub>Since May 2023</sub><br><br>
-      <h2>17+</h2>
-    </td>
-    <td align="center" width="50%">
-      <b>CURRENT STREAK</b><br>
-      <sub>Active Now</sub><br><br>
-      <h2>2 DAYS</h2>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br><b>TOP LANGUAGES</b><br><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=150&section=footer"/>
+  <h3>THANKS FOR VISITING</h3>
+  
+  <p><b>LESS TALK. MORE BUILDING.</b></p>
 
-### THANKS FOR VISITING
+  <br/>
 
-**LESS TALK. MORE BUILDING.**
+  <!-- Footer Links (قابلين للضغط - لينكات حقيقية) -->
+  <a href="https://github.com/goatfr3on"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://alzabot.is-a.dev/"><img src="https://img.shields.io/badge/ALZA_BOT-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Alza Bot"/></a>
+  <a href="https://discord.gg/tUhrNaGPCK"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
-<a href="https://github.com/goatfr3on"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://alzabot.is-a.dev/"><img src="https://img.shields.io/badge/ALZA_BOT-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Alza Bot"/></a>
-<a href="https://discord.gg/tUhrNaGPCK"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <br/><br/>
 
-<br/><br/>
-
-<sub>FR3ON © 2026</sub>
-
+  <sub>FR3ON © 2026</sub>
 </div>
