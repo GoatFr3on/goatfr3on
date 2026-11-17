@@ -1,6 +1,9 @@
 <div align="center">
 
-<!-- HERO HEADER (مش زرار) -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- HERO HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a1a&height=280&section=header&text=FR3ON&fontSize=110&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descAlignY=62&descSize=20&descColor=bbbbbb"/>
 
 <br/>
@@ -9,7 +12,6 @@
 
 <br/><br/>
 
-<!-- أزرار بس (اللي ليها لينكات) -->
 <a href="https://github.com/goatfr3on"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://alzabot.is-a.dev/"><img src="https://img.shields.io/badge/ALZA_BOT-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Alza Bot"/></a>
 <a href="https://discord.gg/tUhrNaGPCK"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -18,9 +20,12 @@
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- عنوان (مش زرار) -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=ABOUT%20ME&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <br/>
@@ -39,9 +44,12 @@ My work focuses on web applications, Discord bots, and creating experiences that
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECHNOLOGIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- عنوان (مش زرار) -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=TECHNOLOGIES&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <br/>
@@ -62,9 +70,12 @@ My work focuses on web applications, Discord bots, and creating experiences that
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- عنوان (مش زرار) -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=FEATURED%20PROJECT&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <br/><br/>
@@ -100,14 +111,16 @@ A Discord application built to help football communities manage leagues, tournam
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB ANALYTICS (STATIC) -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- عنوان (مش زرار) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=STATISTICS&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <br/><br/>
 
-<!-- بديل احترافي للـ Stats عشان مفيش مشاكل السيرفرات -->
 <table>
   <tr>
     <td align="center" width="50%">
@@ -131,13 +144,13 @@ A Discord application built to help football communities manage leagues, tournam
   </tr>
 </table>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goatfr3on&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=CONTRIBUTION%20GRAPH" width="100%" alt="Activity Graph"/>
-
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
