@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- HERO HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:1a1a1a&height=280&section=header&text=FR3ON&fontSize=110&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%7C%20PROJECT%20BUILDER&descAlignY=62&descSize=20&descColor=bbbbbb"/>
 
 <br/>
@@ -19,10 +15,6 @@
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -44,10 +36,6 @@ My work focuses on web applications, Discord bots, and creating experiences that
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- TECHNOLOGIES -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=TECHNOLOGIES&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
@@ -62,17 +50,13 @@ My work focuses on web applications, Discord bots, and creating experiences that
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Next.js"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FEATURED PROJECT -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -82,7 +66,7 @@ My work focuses on web applications, Discord bots, and creating experiences that
 
 <img src="https://img.shields.io/badge/FEATURED_PROJECT-FFFFFF?style=flat-square&labelColor=000000" alt="Featured project"/>
 
-# ⚽ ALZA BOT
+# ALZA BOT
 
 ### FOOTBALL LEAGUE MANAGER FOR DISCORD
 
@@ -111,43 +95,32 @@ A Discord application built to help football communities manage leagues, tournam
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS (FIXED & RELIABLE) -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
 
 <br/><br/>
 
-<!-- Stats & Streak (New Reliable Links) -->
 <a href="https://github.com/goatfr3on">
   <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=goatfr3on&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&ring_color=FFFFFF&include_all_commits=true" alt="GitHub Statistics"/>
 </a>
 <a href="https://github.com/goatfr3on">
-  <img height="175" src="https://streak-stats.demolab.com/?user=goatfr3on&theme=dark&hide_border=true&background=000000&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
+  <img height="175" src="https://github-readme-streak-stats-eight.vercel.app/?user=goatfr3on&theme=dark&hide_border=true&background=000000&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<!-- Top Languages -->
 <a href="https://github.com/goatfr3on">
   <img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=goatfr3on&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=goatfr3on&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=CONTRIBUTION%20GRAPH" width="100%" alt="Activity Graph"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -155,16 +128,11 @@ A Discord application built to help football communities manage leagues, tournam
 
 <br/>
 
-<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/goatfr3on/goatfr3on/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
