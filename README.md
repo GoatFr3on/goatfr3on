@@ -1,93 +1,144 @@
-<table width="100%">
-<tr>
-<td width="55%" align="center" valign="middle">
-<h1 align="center">
-Hi
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-, I'm Farheen Laraib
-</h1>
-<h3 align="center">
-Frontend Developer • Software Engineering Student • Machine Learning Enthusiast
-</h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Frontend+Developer;React+%7C+TypeScript+%7C+Tailwind+CSS;Python+%7C+Flask+Developer;Always+Learning+New+Technologies" alt="Typing SVG">
+ <div align="center">
+
+# FR3ON<span>.</span>
+
+### SOFTWARE DEVELOPER · BUILDER · CREATOR
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Reality;Building+Digital+Experiences;Discord+Bot+Developer;Always+Learning.+Always+Building." />
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Egypt-38BDF8?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning-0EA5E9?style=flat-square" />
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=farheenayy33&label=Profile%20Views&color=0e75b6&style=for-the-badge">
-<img src="https://img.shields.io/github/followers/farheenayy33?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/github/stars/farheenayy33?style=for-the-badge&logo=github">
-</p>
-</td>
-<td width="45%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/farheenayy33/farheenayy33/main/farheen%20coding.gif" width="420" height="420" alt="Farheen_coding animation">
-</td>
-</tr>
-</table>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-  <img width="12" />
- <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+
+[Website](https://alzabot.is-a.dev/) · [GitHub](https://github.com/goatfr3on) · [Discord Support](https://discord.gg/tUhrNaGPCK)
+
 </div>
 
+---
+
+## `01` — ABOUT ME
+
+I'm **Fr3on**, a software developer from Egypt passionate about building useful digital products and turning ideas into real-world applications.
+
+I enjoy working across different areas of software development, from backend systems and Discord bots to modern web applications.
+
+- Building and maintaining real-world projects.
+- Developing Discord applications and automation systems.
+- Exploring modern web technologies.
+- Improving my software engineering skills.
+- Always experimenting with new ideas.
+
+> I don't just write code. I build things that solve problems.
+
+---
+
+## `02` — TECH STACK
+
+**Languages & Core**
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+</p>
+
+**Frameworks & Runtime**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,tailwind" />
+</p>
+
+**Database & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,linux" />
+</p>
+
+---
+
+## `03` — FEATURED PROJECT
+
 <div align="center">
-  <h2>Connect with me </h2>
-  <a href="mailto:farheenayy33@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/farheen-laraib-943ba9404" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/farheenayy33" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+
+<a href="https://alzabot.is-a.dev/">
+<img src="https://img.shields.io/badge/ALZA-BOT-2563EB?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-  <a href="https://portfolio-ruddy-five-80.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-</a>
-</div>
 
-<div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=farheenayy33&theme=dracula" />
-  <img src="https://streak-stats.demolab.com?user=farheenayy33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160em" alt="streak graph" />
-</div>
+# ALZA BOT
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farheenayy33&theme=dracula" height="180"/>
-    </td>
-  </tr>
-</table>
-</div>
+### Football League Manager for Discord
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farheenayy33&theme=react-dark"/>
+A complete football league and tournament management experience built directly into Discord.
+
+**What makes it special?**
+
+- Football League & Tournament Management
+- Player Cards & Transfer System
+- Match Management & Statistics
+- Automated Discord Features
+- Slash Commands Experience
+- Web-Based Tournament Dashboard
+
+<p>
+<img src="https://img.shields.io/badge/Status-Active-22C55E?style=flat-square" />
+<img src="https://img.shields.io/badge/Platform-Discord-5865F2?style=flat-square" />
+<img src="https://img.shields.io/badge/Development-Ongoing-38BDF8?style=flat-square" />
 </p>
+
+[**VISIT WEBSITE ↗**](https://alzabot.is-a.dev/) · [**PREMIUM**](https://alzabot.is-a.dev/premium) · [**SUPPORT**](https://discord.gg/tUhrNaGPCK)
+
+</div>
+
+---
+
+## `04` — GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=goatfr3on&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=E2E8F0&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goatfr3on&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=goatfr3on&theme=transparent&hide_border=true&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
+
+</div>
+
+---
+
+## `05` — CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=goatfr3on&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `06` — LET'S CONNECT
+
+<div align="center">
+
+<a href="https://github.com/goatfr3on">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://discord.com/users/899513733599096843">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://alzabot.is-a.dev/">
+<img src="https://img.shields.io/badge/Alza_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=goatfr3on&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+### BUILD. CREATE. IMPROVE.
+
+<sub>FR3ON © 2026 · Made with passion and code.</sub>
+
+</div>
