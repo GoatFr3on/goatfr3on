@@ -8,18 +8,12 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=TURNING+IDEAS+INTO+REAL+PROJECTS;BUILDING+WEB+%26+DISCORD+APPLICATIONS;LEARN.+BUILD.+IMPROVE.+REPEAT.;LESS+TALK.+MORE+BUILDING." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=TURNING+IDEAS+INTO+REAL+PROJECTS;BUILDING+WEB+%26+DISCORD+APPLICATIONS;LEARN.+BUILD.+IMPROVE.+REPEAT." alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://github.com/goatfr3on">
 <img src="https://komarev.com/ghpvc/?username=goatfr3on&style=for-the-badge&color=111111&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views"/>
-</a>
-<a href="https://github.com/goatfr3on?tab=followers">
-<img src="https://img.shields.io/github/followers/goatfr3on?style=for-the-badge&color=111111&labelColor=000000&label=FOLLOWERS" alt="Followers"/>
-</a>
-<a href="https://github.com/goatfr3on">
-<img src="https://img.shields.io/github/stars/goatfr3on?style=for-the-badge&color=111111&labelColor=000000&label=STARS" alt="Stars"/>
 </a>
 
 <br/><br/>
@@ -170,26 +164,6 @@ A Discord application built to help football communities manage leagues, tournam
 <br/>
 
 <img src="https://raw.githubusercontent.com/goatfr3on/goatfr3on/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- QUOTE SECTION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=60&section=header&text=PHILOSOPHY&fontSize=28&fontColor=ffffff&fontAlignY=55" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Code+is+not+just+syntax.;It's+how+ideas+become+reality.;Build+with+purpose.;Ship+with+pride." alt="Philosophy SVG"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-LESS%20TALK.%20MORE%20BUILDING.-FFFFFF?style=for-the-badge&labelColor=000000&color=000000" alt="Motto"/>
 
 </div>
 
